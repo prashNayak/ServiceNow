@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_578" label="578" language="en" table="x_226986_my_custom_application_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_578</element>
+            <help/>
+            <hint/>
+            <label>578</label>
+            <language>en</language>
+            <name>x_226986_my_custom_application_table</name>
+            <plural>578s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-27 22:27:53</sys_created_on>
+            <sys_id>6e29d2c44f2033006a20e321a310c7fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>578</sys_name>
+            <sys_package display_value="My custom application" source="x_226986_my_custom">ef2b57434f0323006a20e321a310c77e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My custom application">ef2b57434f0323006a20e321a310c77e</sys_scope>
+            <sys_update_name>sys_documentation_x_226986_my_custom_application_table_u_578_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-27 22:27:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

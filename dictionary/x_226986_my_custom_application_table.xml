@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="task" label="My Custom Application Table" max_length="40" name="x_226986_my_custom_application_table" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element label="Company Name" max_length="40" name="company_name" type="string"/>
+        <element label="Company Type" max_length="4000" name="company_type" type="glide_list"/>
+        <element choice="1" label="Country" max_length="40" name="country" type="choice">
+            <choice/>
+        </element>
+        <element label="Date of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element label="Email Address" max_length="40" name="email_address" type="string"/>
+        <element label="fgh" max_length="40" name="fgh" type="string"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="integer"/>
+        <element label="Profile1" max_length="40" name="profile1" type="string"/>
+        <element label="test" max_length="40" name="test" type="string"/>
+        <element label="test2" max_length="40" name="test2" type="string"/>
+        <element label="test4" max_length="40" name="test4" type="string"/>
+        <element label="Test56" max_length="40" name="test56" type="string"/>
+        <element label="test6" max_length="40" name="test6" type="string"/>
+        <element label="test678" max_length="40" name="test678" type="string"/>
+        <element label="test7" max_length="40" name="test7" type="string"/>
+        <element label="test70" max_length="40" name="test70" type="string"/>
+        <element label="test753" max_length="40" name="test753" type="string"/>
+        <element label="test890" max_length="255" name="test890" type="string_full_utf8"/>
+        <element label="test90" max_length="40" name="test90" type="string"/>
+        <element label="trest" max_length="40" name="trest" type="string"/>
+        <element label="578" max_length="40" name="u_578" reference="alm_fixed_assets" type="audio"/>
+        <element label="808" max_length="40" name="u_808" reference="alm_asset" type="string"/>
+        <element label="900" max_length="40" name="u_900" type="due_date"/>
+    </element>
+</database>
